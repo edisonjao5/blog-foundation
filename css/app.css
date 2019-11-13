@@ -1,0 +1,29 @@
+#encabezado {
+    background: linear-gradient(to bottom, #141b41, #0e3508);
+    color: #ffffff;
+    border-radius: 10px 0px 10px 0px;
+    border: solid 1px #ffffff;
+}
+
+body {
+    background-image: url(../img/relax.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1.0;
+}
+
+
+h4 {
+    color: #9c0808;
+    margin: 10px;
+}
+
+.fi {
+    color: #439b59;
+    font-size: 25px;
+}
+
+.chat {
+    width: 5%;
+}
